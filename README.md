@@ -1,7 +1,11 @@
 **Features**
+
 Symfony4: Doctrine, Security, Forms, Upload Files
+
 Webpack Encore
+
 jQuery
+
 MySQL
 
 **Download Composer dependencies**
